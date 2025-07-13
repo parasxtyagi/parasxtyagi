@@ -8,6 +8,10 @@
   <a href="https://github.com/parasxtyagi"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Paras+Tyagi;MERN+Stack+Developer;Fullstack+Web+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -20,10 +24,10 @@
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,php,html,css,tailwind,vite,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,nextjs,tailwind,html,css,php,vite,git,github,mysql" />
 </p>
 
 ---
@@ -41,6 +45,14 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=parasxtyagi&theme=tokyonight&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parasxtyagi&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -77,6 +89,14 @@
 ### 💡 Interests
 
 `Coding` • `Gaming` • `Video Editing` • `Badminton` • `Exploring Tech`
+
+---
+
+### 📜 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
 ---
 
